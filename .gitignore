@@ -1,0 +1,9 @@
+.env
+bin
+dist
+*.zip
+*.exe
+*.txt
+*.md
+*.log
+*.out
